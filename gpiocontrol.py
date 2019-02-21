@@ -15,10 +15,10 @@ IMG_NAME = "tweet-pic.jpg"
 
 
 # Twitter application authentication
-APP_KEY = 'bzmRIwbJXBKdTA36zJodtAZeY'
-APP_SECRET = 'g941v6SMHg2QK0lUtrFwBwhFBD9o3VrsLfXWJtPgAjIYTvumu2'
-OAUTH_TOKEN = '3139009678-DiiamJvvcTKhhE8RbgTE8rwze7LiXJ5Bc1Hj3NO'
-OAUTH_TOKEN_SECRET = 'vd7B1vXCg8Et1Fpw7ruGzZq6eTFklUBawOBrrbfygRkfl'
+APP_KEY = ''
+APP_SECRET = ''
+OAUTH_TOKEN = ''
+OAUTH_TOKEN_SECRET = ''
 
 snapCommand = "raspistill -w " + IMG_WIDTH +  " -h " + IMG_HEIGHT + " -o " + IMG_NAME
 
